@@ -1,0 +1,6 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\12. N-th Bit\bin\Debug\_12.N_th_Bit.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\12. N-th Bit\bin\Debug\_12.N_th_Bit.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\12. N-th Bit\bin\Debug\_12.N_th_Bit.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\12. N-th Bit\obj\Debug\_12.N_th_Bit.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\12. N-th Bit\obj\Debug\_12.N_th_Bit.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\12. N-th Bit\obj\Debug\12. N-th Bit.csprojResolveAssemblyReference.cache

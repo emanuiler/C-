@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.pdb

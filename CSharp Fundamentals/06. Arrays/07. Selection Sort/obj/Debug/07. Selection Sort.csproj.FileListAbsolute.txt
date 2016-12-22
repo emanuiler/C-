@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\07. Selection Sort\bin\Debug\_07.Selection_Sort.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\07. Selection Sort\bin\Debug\_07.Selection_Sort.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\07. Selection Sort\bin\Debug\_07.Selection_Sort.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\07. Selection Sort\obj\Debug\_07.Selection_Sort.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\07. Selection Sort\obj\Debug\_07.Selection_Sort.pdb

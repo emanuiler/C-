@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\09. Matrix of Numbers Drawing\bin\Debug\_09.Matrix_of_Numbers_Drawing.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\09. Matrix of Numbers Drawing\bin\Debug\_09.Matrix_of_Numbers_Drawing.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\09. Matrix of Numbers Drawing\bin\Debug\_09.Matrix_of_Numbers_Drawing.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\09. Matrix of Numbers Drawing\obj\Debug\_09.Matrix_of_Numbers_Drawing.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\09. Matrix of Numbers Drawing\obj\Debug\_09.Matrix_of_Numbers_Drawing.pdb

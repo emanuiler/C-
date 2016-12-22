@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\11. Interval\bin\Debug\_11.Interval.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\11. Interval\bin\Debug\_11.Interval.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\11. Interval\bin\Debug\_11.Interval.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\11. Interval\obj\Debug\_11.Interval.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\11. Interval\obj\Debug\_11.Interval.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\11. Interval\obj\Debug\11. Interval.csprojResolveAssemblyReference.cache

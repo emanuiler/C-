@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\08. Numbers from 1 to N\bin\Debug\_08.Numbers_from_1_to_N.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\08. Numbers from 1 to N\bin\Debug\_08.Numbers_from_1_to_N.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\08. Numbers from 1 to N\bin\Debug\_08.Numbers_from_1_to_N.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\08. Numbers from 1 to N\obj\Debug\_08.Numbers_from_1_to_N.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\08. Numbers from 1 to N\obj\Debug\_08.Numbers_from_1_to_N.pdb

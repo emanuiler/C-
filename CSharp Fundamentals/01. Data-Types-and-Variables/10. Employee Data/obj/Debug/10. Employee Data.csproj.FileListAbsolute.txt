@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\10. Employee Data\bin\Debug\_10.Employee_Data.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\10. Employee Data\bin\Debug\_10.Employee_Data.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\10. Employee Data\bin\Debug\_10.Employee_Data.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\10. Employee Data\obj\Debug\_10.Employee_Data.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\10. Employee Data\obj\Debug\_10.Employee_Data.pdb

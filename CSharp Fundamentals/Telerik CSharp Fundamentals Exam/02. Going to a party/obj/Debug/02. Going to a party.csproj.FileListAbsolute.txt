@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\02. Going to a party\bin\Debug\_02.Going_to_a_party.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\02. Going to a party\bin\Debug\_02.Going_to_a_party.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\02. Going to a party\bin\Debug\_02.Going_to_a_party.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\02. Going to a party\obj\Debug\02. Going to a party.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\02. Going to a party\obj\Debug\_02.Going_to_a_party.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\02. Going to a party\obj\Debug\_02.Going_to_a_party.pdb

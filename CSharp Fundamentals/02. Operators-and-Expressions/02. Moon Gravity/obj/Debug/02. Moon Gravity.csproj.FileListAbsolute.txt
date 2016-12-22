@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\02. Moon Gravity\bin\Debug\_02.Moon_Gravity.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\02. Moon Gravity\bin\Debug\_02.Moon_Gravity.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\02. Moon Gravity\bin\Debug\_02.Moon_Gravity.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\02. Moon Gravity\obj\Debug\_02.Moon_Gravity.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\02. Moon Gravity\obj\Debug\_02.Moon_Gravity.pdb

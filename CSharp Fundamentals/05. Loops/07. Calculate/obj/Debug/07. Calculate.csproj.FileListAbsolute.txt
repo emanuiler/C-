@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\07. Calculate\bin\Debug\_07.Calculate.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\07. Calculate\bin\Debug\_07.Calculate.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\07. Calculate\bin\Debug\_07.Calculate.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\07. Calculate\obj\Debug\07. Calculate.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\07. Calculate\obj\Debug\_07.Calculate.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\07. Calculate\obj\Debug\_07.Calculate.pdb

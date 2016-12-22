@@ -1,0 +1,2 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Intro-Programming-Homework\12. IDEs\bin\Debug\_12.IDEs.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\00. Intro-Programming-Homework\12. IDEs\bin\Debug\_12.IDEs.exe.config

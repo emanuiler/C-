@@ -1,0 +1,6 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\04. Unicode Char\bin\Debug\_04.Unicode_Char.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\04. Unicode Char\bin\Debug\_04.Unicode_Char.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\04. Unicode Char\bin\Debug\_04.Unicode_Char.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\04. Unicode Char\obj\Debug\_04.Unicode_Char.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\04. Unicode Char\obj\Debug\_04.Unicode_Char.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\04. Unicode Char\obj\Debug\04. Unicode Char.csprojResolveAssemblyReference.cache

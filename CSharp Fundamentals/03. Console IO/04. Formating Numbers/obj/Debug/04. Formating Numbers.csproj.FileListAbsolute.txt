@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\04. Formating Numbers\bin\Debug\_04.Formating_Numbers.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\04. Formating Numbers\bin\Debug\_04.Formating_Numbers.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\04. Formating Numbers\bin\Debug\_04.Formating_Numbers.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\04. Formating Numbers\obj\Debug\04. Formating Numbers.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\04. Formating Numbers\obj\Debug\_04.Formating_Numbers.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\04. Formating Numbers\obj\Debug\_04.Formating_Numbers.pdb

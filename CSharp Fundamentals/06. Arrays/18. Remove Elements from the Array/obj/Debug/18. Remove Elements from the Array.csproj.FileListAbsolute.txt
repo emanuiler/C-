@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\18. Remove Elements from the Array\bin\Debug\_18.Remove_Elements_from_the_Array.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\18. Remove Elements from the Array\bin\Debug\_18.Remove_Elements_from_the_Array.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\18. Remove Elements from the Array\bin\Debug\_18.Remove_Elements_from_the_Array.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\18. Remove Elements from the Array\obj\Debug\_18.Remove_Elements_from_the_Array.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\18. Remove Elements from the Array\obj\Debug\_18.Remove_Elements_from_the_Array.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

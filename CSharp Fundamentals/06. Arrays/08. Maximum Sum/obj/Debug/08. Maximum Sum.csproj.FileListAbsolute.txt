@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\08. Maximum Sum\bin\Debug\_08.Maximum_Sum.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\08. Maximum Sum\bin\Debug\_08.Maximum_Sum.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\08. Maximum Sum\bin\Debug\_08.Maximum_Sum.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\08. Maximum Sum\obj\Debug\_08.Maximum_Sum.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\08. Maximum Sum\obj\Debug\_08.Maximum_Sum.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\08. Maximum Sum\obj\Debug\08. Maximum Sum.csprojResolveAssemblyReference.cache

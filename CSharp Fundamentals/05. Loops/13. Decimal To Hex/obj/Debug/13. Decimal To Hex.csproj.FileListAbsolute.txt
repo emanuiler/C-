@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\13. Decimal To Hex\bin\Debug\_13.Decimal_To_Hex.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\13. Decimal To Hex\bin\Debug\_13.Decimal_To_Hex.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\13. Decimal To Hex\bin\Debug\_13.Decimal_To_Hex.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\13. Decimal To Hex\obj\Debug\_13.Decimal_To_Hex.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\13. Decimal To Hex\obj\Debug\_13.Decimal_To_Hex.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\13. Decimal To Hex\obj\Debug\13. Decimal To Hex.csprojResolveAssemblyReference.cache

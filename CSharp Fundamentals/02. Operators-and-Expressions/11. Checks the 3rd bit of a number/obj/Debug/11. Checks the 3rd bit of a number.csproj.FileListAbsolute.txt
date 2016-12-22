@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\11. Checks the 3rd bit of a number\bin\Debug\_11.Checks_the_3rd_bit_of_a_number.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\11. Checks the 3rd bit of a number\bin\Debug\_11.Checks_the_3rd_bit_of_a_number.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\11. Checks the 3rd bit of a number\bin\Debug\_11.Checks_the_3rd_bit_of_a_number.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\11. Checks the 3rd bit of a number\obj\Debug\_11.Checks_the_3rd_bit_of_a_number.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\11. Checks the 3rd bit of a number\obj\Debug\_11.Checks_the_3rd_bit_of_a_number.pdb

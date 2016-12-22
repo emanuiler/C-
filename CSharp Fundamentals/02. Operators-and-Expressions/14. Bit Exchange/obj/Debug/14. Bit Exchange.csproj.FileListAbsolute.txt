@@ -1,0 +1,6 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\14. Bit Exchange\bin\Debug\_14.Bit_Exchange.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\14. Bit Exchange\bin\Debug\_14.Bit_Exchange.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\14. Bit Exchange\bin\Debug\_14.Bit_Exchange.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\14. Bit Exchange\obj\Debug\14. Bit Exchange.csprojResolveAssemblyReference.cache
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\14. Bit Exchange\obj\Debug\_14.Bit_Exchange.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\14. Bit Exchange\obj\Debug\_14.Bit_Exchange.pdb

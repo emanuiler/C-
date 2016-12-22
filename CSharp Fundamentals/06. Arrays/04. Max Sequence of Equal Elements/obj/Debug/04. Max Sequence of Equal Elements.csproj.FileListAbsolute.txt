@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\04. Max Sequence of Equal Elements\bin\Debug\_04.Max_Sequence_of_Equal_Elements.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\04. Max Sequence of Equal Elements\bin\Debug\_04.Max_Sequence_of_Equal_Elements.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\04. Max Sequence of Equal Elements\bin\Debug\_04.Max_Sequence_of_Equal_Elements.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\04. Max Sequence of Equal Elements\obj\Debug\_04.Max_Sequence_of_Equal_Elements.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\04. Max Sequence of Equal Elements\obj\Debug\_04.Max_Sequence_of_Equal_Elements.pdb

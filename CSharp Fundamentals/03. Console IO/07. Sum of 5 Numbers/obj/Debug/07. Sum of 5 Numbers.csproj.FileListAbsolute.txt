@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\07. Sum of 5 Numbers\obj\Debug\_07.Sum_of_5_Numbers.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\07. Sum of 5 Numbers\obj\Debug\_07.Sum_of_5_Numbers.pdb

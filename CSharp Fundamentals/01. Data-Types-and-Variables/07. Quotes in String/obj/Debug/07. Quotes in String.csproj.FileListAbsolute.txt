@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\07. Quotes in String\bin\Debug\_07.Quotes_in_String.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\07. Quotes in String\bin\Debug\_07.Quotes_in_String.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\07. Quotes in String\bin\Debug\_07.Quotes_in_String.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\07. Quotes in String\obj\Debug\_07.Quotes_in_String.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\07. Quotes in String\obj\Debug\_07.Quotes_in_String.pdb

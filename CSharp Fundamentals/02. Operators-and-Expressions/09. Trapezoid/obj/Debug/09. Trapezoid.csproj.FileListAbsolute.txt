@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\09. Trapezoid\bin\Debug\_09.Trapezoid.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\09. Trapezoid\bin\Debug\_09.Trapezoid.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\09. Trapezoid\bin\Debug\_09.Trapezoid.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\09. Trapezoid\obj\Debug\_09.Trapezoid.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\09. Trapezoid\obj\Debug\_09.Trapezoid.pdb

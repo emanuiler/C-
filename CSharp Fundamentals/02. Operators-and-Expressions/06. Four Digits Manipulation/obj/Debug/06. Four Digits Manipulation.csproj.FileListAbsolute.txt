@@ -1,0 +1,6 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\06. Four Digits Manipulation\bin\Debug\_06.Four_Digits_Manipulation.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\06. Four Digits Manipulation\bin\Debug\_06.Four_Digits_Manipulation.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\06. Four Digits Manipulation\bin\Debug\_06.Four_Digits_Manipulation.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\06. Four Digits Manipulation\obj\Debug\_06.Four_Digits_Manipulation.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\06. Four Digits Manipulation\obj\Debug\_06.Four_Digits_Manipulation.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\06. Four Digits Manipulation\obj\Debug\06. Four Digits Manipulation.csprojResolveAssemblyReference.cache

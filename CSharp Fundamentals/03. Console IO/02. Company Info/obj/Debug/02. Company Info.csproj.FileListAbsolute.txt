@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\02. Company Info\bin\Debug\_02.Company_Info.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\02. Company Info\bin\Debug\_02.Company_Info.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\02. Company Info\bin\Debug\_02.Company_Info.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\02. Company Info\obj\Debug\02. Company Info.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\02. Company Info\obj\Debug\_02.Company_Info.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\02. Company Info\obj\Debug\_02.Company_Info.pdb

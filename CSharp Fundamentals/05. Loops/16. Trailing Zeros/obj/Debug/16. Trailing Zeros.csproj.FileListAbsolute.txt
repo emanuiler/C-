@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\16. Trailing Zeros\bin\Debug\_16.Trailing_Zeros.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\16. Trailing Zeros\bin\Debug\_16.Trailing_Zeros.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\16. Trailing Zeros\bin\Debug\_16.Trailing_Zeros.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\16. Trailing Zeros\obj\Debug\_16.Trailing_Zeros.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\16. Trailing Zeros\obj\Debug\_16.Trailing_Zeros.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\16. Trailing Zeros\obj\Debug\16. Trailing Zeros.csprojResolveAssemblyReference.cache

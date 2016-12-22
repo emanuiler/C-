@@ -1,0 +1,6 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\10. Point Circle Rectangle\bin\Debug\_10.Point_Circle_Rectangle.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\10. Point Circle Rectangle\bin\Debug\_10.Point_Circle_Rectangle.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\10. Point Circle Rectangle\bin\Debug\_10.Point_Circle_Rectangle.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\10. Point Circle Rectangle\obj\Debug\10. Point Circle Rectangle.csprojResolveAssemblyReference.cache
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\10. Point Circle Rectangle\obj\Debug\_10.Point_Circle_Rectangle.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\10. Point Circle Rectangle\obj\Debug\_10.Point_Circle_Rectangle.pdb

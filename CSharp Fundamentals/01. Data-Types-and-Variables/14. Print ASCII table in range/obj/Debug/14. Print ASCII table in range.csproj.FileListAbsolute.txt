@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\14. Print ASCII table in range\bin\Debug\_14.Print_ASCII_table_in_range.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\14. Print ASCII table in range\bin\Debug\_14.Print_ASCII_table_in_range.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\14. Print ASCII table in range\bin\Debug\_14.Print_ASCII_table_in_range.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\14. Print ASCII table in range\obj\Debug\_14.Print_ASCII_table_in_range.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\14. Print ASCII table in range\obj\Debug\_14.Print_ASCII_table_in_range.pdb

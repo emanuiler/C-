@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\03. Circle\bin\Debug\_03.Circle.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\03. Circle\bin\Debug\_03.Circle.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\03. Circle\bin\Debug\_03.Circle.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\03. Circle\obj\Debug\_03.Circle.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\03. Circle\obj\Debug\_03.Circle.pdb

@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\05. Number Comparer\bin\Debug\_05.Number_Comparer.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\05. Number Comparer\bin\Debug\_05.Number_Comparer.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\05. Number Comparer\bin\Debug\_05.Number_Comparer.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\05. Number Comparer\obj\Debug\_05.Number_Comparer.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\05. Number Comparer\obj\Debug\_05.Number_Comparer.pdb

@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\01. Sum of 3\bin\Debug\_01.Sum_of_3.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\01. Sum of 3\bin\Debug\_01.Sum_of_3.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\01. Sum of 3\bin\Debug\_01.Sum_of_3.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\01. Sum of 3\obj\Debug\_01.Sum_of_3.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\03. Console IO\01. Sum of 3\obj\Debug\_01.Sum_of_3.pdb

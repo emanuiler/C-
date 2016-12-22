@@ -1,0 +1,9 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Loops Training\Loops Training\bin\Debug\Loops Training.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Loops Training\Loops Training\bin\Debug\Loops Training.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Loops Training\Loops Training\bin\Debug\Loops Training.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Loops Training\Loops Training\obj\Debug\Loops Training.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Loops Training\Loops Training\obj\Debug\Loops Training.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Loops Training\Loops Training\obj\Debug\Loops Training.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\SoftUni Projects\Loops Training\Loops Training\bin\Debug\Loops Training.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\SoftUni Projects\Loops Training\Loops Training\obj\Debug\Loops Training.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\SoftUni Projects\Loops Training\Loops Training\obj\Debug\Loops Training.pdb

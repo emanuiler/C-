@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\04. Print Card Deck\bin\Debug\_04.Print_Card_Deck.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\04. Print Card Deck\bin\Debug\_04.Print_Card_Deck.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\04. Print Card Deck\bin\Debug\_04.Print_Card_Deck.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\04. Print Card Deck\obj\Debug\04. Print Card Deck.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\04. Print Card Deck\obj\Debug\_04.Print_Card_Deck.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\04. Print Card Deck\obj\Debug\_04.Print_Card_Deck.pdb

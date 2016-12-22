@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\09. Exchange Variable Values\obj\Debug\_09.Exchange_Variable_Values.pdb

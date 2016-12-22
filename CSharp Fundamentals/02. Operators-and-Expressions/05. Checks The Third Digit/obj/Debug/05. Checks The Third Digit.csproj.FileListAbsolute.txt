@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\05. Checks The Third Digit\bin\Debug\_05.Checks_The_Third_Digit.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\05. Checks The Third Digit\bin\Debug\_05.Checks_The_Third_Digit.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\05. Checks The Third Digit\bin\Debug\_05.Checks_The_Third_Digit.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\05. Checks The Third Digit\obj\Debug\_05.Checks_The_Third_Digit.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\05. Checks The Third Digit\obj\Debug\_05.Checks_The_Third_Digit.pdb

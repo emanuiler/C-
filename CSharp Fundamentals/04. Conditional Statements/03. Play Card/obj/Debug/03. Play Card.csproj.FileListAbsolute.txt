@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\04. Conditional Statements\03. Play Card\bin\Debug\_03.Play_Card.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\04. Conditional Statements\03. Play Card\bin\Debug\_03.Play_Card.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\04. Conditional Statements\03. Play Card\bin\Debug\_03.Play_Card.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\04. Conditional Statements\03. Play Card\obj\Debug\03. Play Card.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\04. Conditional Statements\03. Play Card\obj\Debug\_03.Play_Card.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\04. Conditional Statements\03. Play Card\obj\Debug\_03.Play_Card.pdb

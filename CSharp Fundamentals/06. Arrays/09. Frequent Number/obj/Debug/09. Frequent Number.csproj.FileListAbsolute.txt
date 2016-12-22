@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\09. Frequent Number\bin\Debug\_09.Frequent_Number.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\09. Frequent Number\bin\Debug\_09.Frequent_Number.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\09. Frequent Number\bin\Debug\_09.Frequent_Number.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\09. Frequent Number\obj\Debug\_09.Frequent_Number.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\09. Frequent Number\obj\Debug\_09.Frequent_Number.pdb

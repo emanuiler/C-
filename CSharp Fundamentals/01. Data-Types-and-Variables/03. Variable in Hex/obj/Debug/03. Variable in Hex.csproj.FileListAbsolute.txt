@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\03. Variable in Hex\bin\Debug\_03.Variable_in_Hex.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\03. Variable in Hex\bin\Debug\_03.Variable_in_Hex.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\03. Variable in Hex\bin\Debug\_03.Variable_in_Hex.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\03. Variable in Hex\obj\Debug\_03.Variable_in_Hex.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\03. Variable in Hex\obj\Debug\_03.Variable_in_Hex.pdb

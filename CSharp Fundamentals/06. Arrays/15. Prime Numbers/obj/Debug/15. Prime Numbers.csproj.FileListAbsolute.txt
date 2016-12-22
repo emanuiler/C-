@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\15. Prime Numbers\bin\Debug\_15.Prime_Numbers.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\15. Prime Numbers\bin\Debug\_15.Prime_Numbers.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\15. Prime Numbers\bin\Debug\_15.Prime_Numbers.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\15. Prime Numbers\obj\Debug\15. Prime Numbers.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\15. Prime Numbers\obj\Debug\_15.Prime_Numbers.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\15. Prime Numbers\obj\Debug\_15.Prime_Numbers.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\08. Prime Check\bin\Debug\_08.Prime_Check.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\08. Prime Check\bin\Debug\_08.Prime_Check.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\08. Prime Check\bin\Debug\_08.Prime_Check.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\08. Prime Check\obj\Debug\08. Prime Check.csprojResolveAssemblyReference.cache
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\08. Prime Check\obj\Debug\_08.Prime_Check.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\02. Operators-and-Expressions\08. Prime Check\obj\Debug\_08.Prime_Check.pdb

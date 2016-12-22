@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\CSharp Fundamentals Workshop\03. Number of Pages\bin\Debug\_03.Number_of_Pages.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\CSharp Fundamentals Workshop\03. Number of Pages\bin\Debug\_03.Number_of_Pages.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\CSharp Fundamentals Workshop\03. Number of Pages\bin\Debug\_03.Number_of_Pages.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\CSharp Fundamentals Workshop\03. Number of Pages\obj\Debug\_03.Number_of_Pages.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\CSharp Fundamentals Workshop\03. Number of Pages\obj\Debug\_03.Number_of_Pages.pdb

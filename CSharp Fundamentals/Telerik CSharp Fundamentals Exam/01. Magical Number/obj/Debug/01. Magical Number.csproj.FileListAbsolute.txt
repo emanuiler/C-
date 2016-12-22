@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\01. Magical Number\bin\Debug\_01.Magical_Number.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\01. Magical Number\bin\Debug\_01.Magical_Number.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\01. Magical Number\bin\Debug\_01.Magical_Number.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\01. Magical Number\obj\Debug\01. Magical Number.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\01. Magical Number\obj\Debug\_01.Magical_Number.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\01. Magical Number\obj\Debug\_01.Magical_Number.pdb

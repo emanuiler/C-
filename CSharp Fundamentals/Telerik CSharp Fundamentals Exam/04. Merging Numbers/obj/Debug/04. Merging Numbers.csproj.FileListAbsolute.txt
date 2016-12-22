@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\04. Merging Numbers\bin\Debug\_04.Merging_Numbers.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\04. Merging Numbers\bin\Debug\_04.Merging_Numbers.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\04. Merging Numbers\bin\Debug\_04.Merging_Numbers.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\04. Merging Numbers\obj\Debug\04. Merging Numbers.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\04. Merging Numbers\obj\Debug\_04.Merging_Numbers.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Telerik CSharp Fundamentals Exam\04. Merging Numbers\obj\Debug\_04.Merging_Numbers.pdb

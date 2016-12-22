@@ -1,0 +1,5 @@
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\02. Float or Double\bin\Debug\_02.Float_or_Double.exe.config
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\02. Float or Double\bin\Debug\_02.Float_or_Double.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\02. Float or Double\bin\Debug\_02.Float_or_Double.pdb
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\02. Float or Double\obj\Debug\_02.Float_or_Double.exe
+D:\Dropbox\Visual Studio 2015\Projects\Telerik Academy Projects\01. Data-Types-and-Variables\02. Float or Double\obj\Debug\_02.Float_or_Double.pdb

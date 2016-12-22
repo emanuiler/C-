@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\17. Spiral Matrix\bin\Debug\_17.Spiral_Matrix.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\17. Spiral Matrix\bin\Debug\_17.Spiral_Matrix.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\17. Spiral Matrix\bin\Debug\_17.Spiral_Matrix.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\17. Spiral Matrix\obj\Debug\17. Spiral Matrix.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\17. Spiral Matrix\obj\Debug\_17.Spiral_Matrix.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\05. Loops\17. Spiral Matrix\obj\Debug\_17.Spiral_Matrix.pdb

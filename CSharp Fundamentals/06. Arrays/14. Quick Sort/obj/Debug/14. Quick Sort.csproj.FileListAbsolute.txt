@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\14. Quick Sort\bin\Debug\_14.Quick_Sort.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\14. Quick Sort\bin\Debug\_14.Quick_Sort.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\14. Quick Sort\bin\Debug\_14.Quick_Sort.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\14. Quick Sort\obj\Debug\_14.Quick_Sort.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\14. Quick Sort\obj\Debug\_14.Quick_Sort.pdb

@@ -1,0 +1,6 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Intro-Programming-Homework\14. DateTime CurrentDateTime\bin\Debug\_14.DateTime_CurrentDateTime.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Intro-Programming-Homework\14. DateTime CurrentDateTime\obj\Debug\14. DateTime CurrentDateTime.csprojResolveAssemblyReference.cache
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Intro-Programming-Homework\14. DateTime CurrentDateTime\bin\Debug\_14.DateTime_CurrentDateTime.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Intro-Programming-Homework\14. DateTime CurrentDateTime\bin\Debug\_14.DateTime_CurrentDateTime.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Intro-Programming-Homework\14. DateTime CurrentDateTime\obj\Debug\_14.DateTime_CurrentDateTime.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\Intro-Programming-Homework\14. DateTime CurrentDateTime\obj\Debug\_14.DateTime_CurrentDateTime.pdb

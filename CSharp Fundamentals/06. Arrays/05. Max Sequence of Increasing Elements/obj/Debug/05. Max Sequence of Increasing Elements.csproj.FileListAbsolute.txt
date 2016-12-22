@@ -1,0 +1,5 @@
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\05. Max Sequence of Increasing Elements\bin\Debug\_05.Max_Sequence_of_Increasing_Elements.exe.config
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\05. Max Sequence of Increasing Elements\bin\Debug\_05.Max_Sequence_of_Increasing_Elements.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\05. Max Sequence of Increasing Elements\bin\Debug\_05.Max_Sequence_of_Increasing_Elements.pdb
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\05. Max Sequence of Increasing Elements\obj\Debug\_05.Max_Sequence_of_Increasing_Elements.exe
+C:\Users\state268\Dropbox\Visual Studio 2015\Projects\06. Arrays\05. Max Sequence of Increasing Elements\obj\Debug\_05.Max_Sequence_of_Increasing_Elements.pdb
